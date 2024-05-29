@@ -1,0 +1,4 @@
+{
+    "dotnet.server.trace": "Trace",
+    "dotnet.server.useOmnisharp": true
+}
