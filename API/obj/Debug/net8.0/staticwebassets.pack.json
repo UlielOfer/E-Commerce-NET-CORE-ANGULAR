@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\187.8606923f0a6aeeb1.js",
+      "PackagePath": "staticwebassets\\187.8606923f0a6aeeb1.js"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\207.ae823b5bdbfa92ff.js",
+      "PackagePath": "staticwebassets\\207.ae823b5bdbfa92ff.js"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\333.cfd0868ec37043bd.js",
+      "PackagePath": "staticwebassets\\333.cfd0868ec37043bd.js"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\481.e447dc338183be0d.js",
+      "PackagePath": "staticwebassets\\481.e447dc338183be0d.js"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\605.b32a2a491edbe5ce.js",
+      "PackagePath": "staticwebassets\\605.b32a2a491edbe5ce.js"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\assets\\images\\hero1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\assets\\images\\hero2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\assets\\images\\hero3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\assets\\images\\logo_test3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo_test3.png"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\assets\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\assets\\images\\placeholder.png"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\common.6491bff3ecc23f82.js",
+      "PackagePath": "staticwebassets\\common.6491bff3ecc23f82.js"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.2b13baa7dd4f54c9.eot"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.8a7cb27d142e3e19.ttf"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.cf011583fb81df9f.woff"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.da909aa098b0ee2d.svg"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.e9955780856cf8aa.woff2"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\main.8b8c62ac160d1a8a.js",
+      "PackagePath": "staticwebassets\\main.8b8c62ac160d1a8a.js"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\polyfills.9235a755e281251e.js",
+      "PackagePath": "staticwebassets\\polyfills.9235a755e281251e.js"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\runtime.e624c32aa8cb4dfb.js",
+      "PackagePath": "staticwebassets\\runtime.e624c32aa8cb4dfb.js"
+    },
+    {
+      "Id": "C:\\Users\\עופר\\source\\repos\\E-Commerce_Angular\\api\\wwwroot\\styles.e058155518863069.css",
+      "PackagePath": "staticwebassets\\styles.e058155518863069.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

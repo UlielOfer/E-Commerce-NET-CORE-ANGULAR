@@ -1,0 +1,13 @@
+C:\Users\עופר\source\repos\E-Commerce_Angular\Core\bin\Release\net8.0\Core.deps.json
+C:\Users\עופר\source\repos\E-Commerce_Angular\Core\bin\Release\net8.0\Core.dll
+C:\Users\עופר\source\repos\E-Commerce_Angular\Core\bin\Release\net8.0\Core.pdb
+C:\Users\עופר\source\repos\E-Commerce_Angular\Core\obj\Release\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\עופר\source\repos\E-Commerce_Angular\Core\obj\Release\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\עופר\source\repos\E-Commerce_Angular\Core\obj\Release\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\עופר\source\repos\E-Commerce_Angular\Core\obj\Release\net8.0\Core.AssemblyInfo.cs
+C:\Users\עופר\source\repos\E-Commerce_Angular\Core\obj\Release\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\עופר\source\repos\E-Commerce_Angular\Core\obj\Release\net8.0\Core.sourcelink.json
+C:\Users\עופר\source\repos\E-Commerce_Angular\Core\obj\Release\net8.0\Core.dll
+C:\Users\עופר\source\repos\E-Commerce_Angular\Core\obj\Release\net8.0\refint\Core.dll
+C:\Users\עופר\source\repos\E-Commerce_Angular\Core\obj\Release\net8.0\Core.pdb
+C:\Users\עופר\source\repos\E-Commerce_Angular\Core\obj\Release\net8.0\ref\Core.dll

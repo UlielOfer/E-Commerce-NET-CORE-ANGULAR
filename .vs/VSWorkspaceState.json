@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API",
+    "\\API\\DTos",
+    "\\API\\Helpers",
+    "\\API\\wwwroot",
+    "\\Core",
+    "\\Core\\Specifications",
+    "\\Infrastructure",
+    "\\Infrastructure\\Data",
+    "\\Infrastructure\\Data\\Migrations"
+  ],
+  "SelectedNode": "\\API\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

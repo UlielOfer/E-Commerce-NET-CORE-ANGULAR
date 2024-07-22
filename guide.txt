@@ -1,0 +1,5 @@
+1) dotnet run OR dotnet watch --no-hot-reload 
+2) to update changes in client DO: ng build in client folder.
+3) to update database DO : dotnet ef database update --context NAMEOFCONTEXT
+4) localhost:5001 to access project
+5) docker-compose up -d is required to launch server Database (Postgre SQL).
